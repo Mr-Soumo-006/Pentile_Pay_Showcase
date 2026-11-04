@@ -42,7 +42,7 @@
          │ • 25,000+ BBPS Billers │                     │ • Multilingual Soundbox│
          │ • Zero-Commission SIP  │                     │ • Double-Entry Ledger  │
          │ • 24K Digital Gold     │                     │ • Instant Settlements  │
-         │ • Fineman AI Advisor   │                     │ • CA Audit Statements  │
+         │ • FinMan AI Advisor   │                     │ • CA Audit Statements  │
          └────────────────────────┘                     └────────────────────────┘
 ```
 
@@ -75,7 +75,7 @@
 * **Regulatory Compliance:** Fully adheres to **Section 44AB of the Income Tax Act 1961**, Rule 6F of IT Rules, and Section 65B of the Indian Evidence Act.
 * **Automated GST E-Invoicing:** Generates standardized B2B / B2C tax invoices with itemized HSN/SAC codes, CGST, SGST, and IGST breakdowns.
 
-### 6. 🤖 Fineman On-Device AI Financial Advisor
+### 6. 🤖 FinMan On-Device AI Financial Advisor
 * **Grounded RAG Pipeline:** Privacy-centric Retrieval-Augmented Generation (RAG) providing real-time financial literacy, tax slab insights, and portfolio guidance.
 * **Technical Stock Screener:** Real-time market quotes and automated technical support/resistance research without ungrounded advisory promises.
 * **Intelligent EMI & SIP Calculators:** High-precision compounding calculators for mutual funds, fixed deposits, and business debt structuring.
@@ -114,7 +114,7 @@ graph TD
         SwitchCore["UPI 2.0 Settlement Core"]
         LedgerService["Double-Entry Ledger Engine"]
         TaxEngine["GST E-Invoicing & Compliance"]
-        AIRAG["Fineman AI Assistant & Vector Store"]
+        AIRAG["FinMan AI Assistant & Vector Store"]
     end
 
     subgraph Storage ["Enterprise Persistence Tier (PostgreSQL 16)"]
